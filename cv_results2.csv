@@ -1,0 +1,5 @@
+model,cv_accuracy_mean,cv_accuracy_std,fit_time_s,best_params
+linear_svm,0.45005264074594936,0.004360505020631223,89.33044934272766,"{'tfidf__ngram_range': (1, 2), 'clf__class_weight': 'balanced', 'clf__C': 0.1}"
+sgd,0.44999389386274363,0.004270014569734345,88.97332620620728,"{'clf__penalty': 'l2', 'clf__loss': 'log_loss', 'clf__alpha': 0.0001}"
+naive_bayes,0.4460123446838771,0.0022400900696590764,45.183443546295166,"{'clf__alpha': 0.5, 'tfidf__ngram_range': (1, 1)}"
+baseline_lr,0.44595372124010385,0.003130185230753643,107.1801176071167,"{'tfidf__ngram_range': (1, 2), 'tfidf__min_df': 2, 'clf__class_weight': 'balanced', 'clf__C': 1}"

@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+openpyxl
+# opcional (modelo de embeddings semânticos, requer internet na 1a execução):
+# sentence-transformers
