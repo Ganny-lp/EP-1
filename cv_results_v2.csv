@@ -1,2 +1,0 @@
-model,stratified_cv_acc,group_cv_acc,gap_stratified_minus_group,fit_time_s,best_params
-baseline_lr,0.44899844329158106,0.446187401634201,0.0028110416573800534,79.61240100860596,{}
